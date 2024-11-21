@@ -7,6 +7,7 @@ The primary objective is to determine the best-performing machine learning model
 
 Key Findings:
 	•	Machine learning models were evaluated for their performance in predicting student salaries.
+ 
 	•	The Random Forest model outperformed other algorithms, demonstrating superior accuracy and reliability in salary predictions.
 
 Google Drive Link - https://drive.google.com/file/d/1GepipPbxVEmgWBumOfhzGlvIBHQRA85F/view?usp=sharing
