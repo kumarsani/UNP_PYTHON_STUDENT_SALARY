@@ -10,6 +10,9 @@ Key Findings:
  
 	•	The Random Forest model outperformed other algorithms and reliability in salary predictions.
 
+Conclusion:
+This project highlights the significance of using predictive analytics for career planning and salary management. By identifying the most effective machine learning model, it provides a data-driven approach to aligning education with future career success.
+
 Google Drive Link - https://drive.google.com/file/d/1GepipPbxVEmgWBumOfhzGlvIBHQRA85F/view?usp=sharing
 
 Google Colab Link - https://colab.research.google.com/drive/1xnHU1iNtXW2cNAKV_duOUQy3S1QFxF6d?usp=sharing
